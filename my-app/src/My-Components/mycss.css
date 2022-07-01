@@ -1,0 +1,65 @@
+.logo-img{
+    height: 50px;
+    width: 80px;
+    margin: 0;
+    margin-top: -20px;
+
+    
+}
+.right-part{
+    margin-left: 600px;
+    margin-right: 12px;
+}
+.navibtn{
+    text-decoration: none;
+    margin: 24px;
+ }
+ .l-break{
+    margin: -15px;
+    color: gray;
+    border-width: 20px;
+ }
+ .home-img{
+    height: 600px;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 16px;
+   
+ }
+ .home-txt{
+    margin-top: 80px;
+    margin-left: 0px;
+    margin-right: 93px;
+    float: right;
+    font-size: 40px;
+    font-weight: 500;
+ }
+ .lr-more{
+    float: right;
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: -68px;
+    margin-right: 370px;
+    
+ }
+ .h3-head{
+    text-align: center;
+    font-size: 36px;
+    color: red;
+ }
+ .donation-text{
+   text-align: center;
+   font-size: 28px;
+   font-weight: 300;
+ }
+ .bottom{
+   background-color: grey;
+   
+ }
+ .bottom-table{
+  margin-left: 50px;
+  column-gap: 500px;
+  
+ }

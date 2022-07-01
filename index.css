@@ -1,0 +1,1716 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:6807px;
+  min-width:200px;
+  max-width:1512px;
+  margin:auto;
+  background-color:#ffffff;
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Group-9{
+  position:fixed;
+  z-index:58;
+  pointer-events:none;
+  margin-left:0px;
+  width:1512px;
+  min-width:200px;
+  height:222px;
+  margin-top:-31px;
+  margin-bottom:6616px;
+  min-height:222px;
+  top:-31px;
+  bottom:0;
+  max-width:1512px;
+}
+.Group-9-outer{
+  pointer-events:none;
+  z-index:58;
+  position:relative;
+  display:flex;
+}
+.donateNow-logos-tran{
+  position:relative;
+  z-index:65;
+  pointer-events:none;
+  margin-left:25px;
+  width:222px;
+  min-width:222px;
+  height:222px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:222px;
+  content:url(assets/images/donateNow_logos_transparent_1.png);
+}
+.donateNow-logos-tran-outer{
+  pointer-events:none;
+  z-index:65;
+  position:relative;
+  display:flex;
+}
+.Rectangle-9{
+  position:relative;
+  z-index:59;
+  pointer-events:none;
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:128px;
+  margin-top:-191px;
+  margin-bottom:63px;
+  min-height:128px;
+  background-color:rgba(255, 228, 228, 1);
+  filter:drop-shadow(0px 2px 6px rgba(201, 28, 28, 0.1));
+}
+.Rectangle-9-outer{
+  pointer-events:none;
+  z-index:59;
+  position:relative;
+  display:flex;
+}
+.Group-3{
+  position:relative;
+  z-index:66;
+  pointer-events:none;
+  margin-left:1264px;
+  width:183px;
+  min-width:183px;
+  height:33px;
+  margin-top:-139px;
+  margin-bottom:106px;
+  min-height:33px;
+}
+.Group-3-outer{
+  pointer-events:none;
+  z-index:66;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:67;
+  pointer-events:none;
+  margin-left:0px;
+  width:183px;
+  min-width:183px;
+  height:33px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:33px;
+  background-color:rgba(201, 28, 28, 1);
+  border-radius:4.4479169845581055px;
+}
+.Rectangle-2-outer{
+  pointer-events:none;
+  z-index:67;
+  position:relative;
+  display:flex;
+}
+.Looking-For-Blood{
+  position:relative;
+  z-index:68;
+  pointer-events:none;
+  margin-left:11px;
+  width:161px;
+  min-width:161px;
+  margin-top:-27px;
+  margin-bottom:6px;
+  min-height:21px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:17.49264907836914px;
+  line-height:20.80000114440918px;
+}
+.Looking-For-Blood-outer{
+  pointer-events:none;
+  z-index:68;
+  position:relative;
+  display:flex;
+}
+.Donate{
+  position:relative;
+  z-index:64;
+  pointer-events:none;
+  margin-left:766px;
+  width:67px;
+  min-width:67px;
+  margin-top:-134px;
+  margin-bottom:112px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:18px;
+  line-height:22.399999618530273px;
+}
+.Donate-outer{
+  pointer-events:none;
+  z-index:64;
+  position:relative;
+  display:flex;
+}
+.Hospital-Login{
+  position:relative;
+  z-index:63;
+  pointer-events:none;
+  margin-left:1097px;
+  width:131px;
+  min-width:131px;
+  margin-top:-134px;
+  margin-bottom:112px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:18px;
+  line-height:22.399999618530273px;
+}
+.Hospital-Login-outer{
+  pointer-events:none;
+  z-index:63;
+  position:relative;
+  display:flex;
+}
+.Sign-Up{
+  position:relative;
+  z-index:62;
+  pointer-events:none;
+  margin-left:989px;
+  width:72px;
+  min-width:72px;
+  margin-top:-134px;
+  margin-bottom:112px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:18px;
+  line-height:22.399999618530273px;
+}
+.Sign-Up-outer{
+  pointer-events:none;
+  z-index:62;
+  position:relative;
+  display:flex;
+}
+.About-Us{
+  position:relative;
+  z-index:61;
+  pointer-events:none;
+  margin-left:869px;
+  width:84px;
+  min-width:84px;
+  margin-top:-134px;
+  margin-bottom:112px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:18px;
+  line-height:22.399999618530273px;
+}
+.About-Us-outer{
+  pointer-events:none;
+  z-index:61;
+  position:relative;
+  display:flex;
+}
+.Home{
+  position:relative;
+  z-index:60;
+  pointer-events:none;
+  margin-left:674px;
+  width:56px;
+  min-width:56px;
+  margin-top:-134px;
+  margin-bottom:112px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:18px;
+  line-height:22.399999618530273px;
+}
+.Home-outer{
+  pointer-events:none;
+  z-index:60;
+  position:relative;
+  display:flex;
+}
+.q-Pngtree-doctor-and{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:40px;
+  width:802px;
+  min-width:802px;
+  height:802px;
+  margin-top:113px;
+  margin-bottom:5892px;
+  min-height:802px;
+  content:url(assets/images/__Pngtree_doctor_and_donation_of_the_6288026_1.png);
+}
+.q-Pngtree-doctor-and-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.q-You-Can-t-Buy-A-Li{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:856px;
+  width:563px;
+  min-width:563px;
+  margin-top:-6618px;
+  margin-bottom:6275px;
+  min-height:343px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:40px;
+  line-height:48.79999923706055px;
+}
+.q-You-Can-t-Buy-A-Li-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Group-1{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:924px;
+  width:388px;
+  min-width:388px;
+  height:52px;
+  margin-top:-6323px;
+  margin-bottom:6271px;
+  min-height:52px;
+}
+.Group-1-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:0px;
+  width:206px;
+  min-width:206px;
+  height:52px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:52px;
+  background-color:rgba(201, 28, 28, 1);
+  border-radius:7px;
+}
+.Rectangle-1-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Learn-More{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:232px;
+  width:156px;
+  min-width:156px;
+  margin-top:-44px;
+  margin-bottom:10px;
+  min-height:34px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(201, 28, 28, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:27.5294132232666px;
+  line-height:33.60000228881836px;
+}
+.Learn-More-outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Donate-Now-1{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:17px;
+  width:173px;
+  min-width:173px;
+  margin-top:-43px;
+  margin-bottom:9px;
+  min-height:34px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:27.5294132232666px;
+  line-height:33.60000228881836px;
+}
+.Donate-Now-1-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.LEARN-ABOUT-DONATION{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:511px;
+  width:490px;
+  min-width:490px;
+  margin-top:-5915px;
+  margin-bottom:5871px;
+  min-height:44px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(201, 28, 28, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:600;
+  font-size:36px;
+  line-height:44px;
+}
+.LEARN-ABOUT-DONATION-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.blood3-generated-rem{
+  position:relative;
+  z-index:50;
+  pointer-events:none;
+  margin-left:151px;
+  width:444px;
+  min-width:444px;
+  height:341.18px;
+  margin-top:-5818px;
+  margin-bottom:5476.82px;
+  min-height:341.18px;
+  content:url(assets/images/blood3_generated_removebg_preview_1.png);
+}
+.blood3-generated-rem-outer{
+  pointer-events:none;
+  z-index:50;
+  position:relative;
+  display:flex;
+}
+.Group-10{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:803px;
+  width:590px;
+  min-width:590px;
+  height:506px;
+  margin-top:-5818px;
+  margin-bottom:5312px;
+  min-height:506px;
+}
+.Group-10-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Group-4{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:0px;
+  width:590px;
+  min-width:590px;
+  height:506px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:506px;
+}
+.Group-4-outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Rectangle-8{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:0px;
+  width:590px;
+  min-width:590px;
+  height:42px;
+  margin-top:0px;
+  margin-bottom:464px;
+  min-height:42px;
+  background-color:rgba(201, 28, 28, 1);
+  border-radius:6px;
+}
+.Rectangle-8-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Rectangle-7{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:0px;
+  width:590px;
+  min-width:590px;
+  height:506px;
+  margin-top:-506px;
+  margin-bottom:0px;
+  min-height:506px;
+  background-color:rgba(102, 140, 199, 1);
+  border-radius:6px;
+}
+.Rectangle-7-outer{
+  pointer-events:none;
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Compatible-Blood-Typ{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:102px;
+  width:386px;
+  min-width:386px;
+  margin-top:-499px;
+  margin-bottom:470px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:600;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.Compatible-Blood-Typ-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Receive-Blood-From{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:388px;
+  width:184px;
+  min-width:184px;
+  margin-top:-454px;
+  margin-bottom:432px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:18px;
+  line-height:22.399999618530273px;
+}
+.Receive-Blood-From-outer{
+  pointer-events:none;
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.Donate-Blood-To{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:188px;
+  width:152px;
+  min-width:152px;
+  margin-top:-454px;
+  margin-bottom:432px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:18px;
+  line-height:22.399999618530273px;
+}
+.Donate-Blood-To-outer{
+  pointer-events:none;
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.Blood-Type{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:38px;
+  width:102px;
+  min-width:102px;
+  margin-top:-454px;
+  margin-bottom:432px;
+  min-height:22px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:18px;
+  line-height:22.399999618530273px;
+}
+.Blood-Type-outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Line-3{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:0px;
+  width:590px;
+  min-width:590px;
+  margin-top:-422px;
+  margin-bottom:422px;
+  min-height:undefinedpx;
+  border:1px solid rgba(255, 255, 255, 1);
+}
+.Line-3-outer{
+  pointer-events:none;
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.Group-8{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:388px;
+  width:143px;
+  min-width:143px;
+  height:365px;
+  margin-top:-402px;
+  margin-bottom:37px;
+  min-height:365px;
+}
+.Group-8-outer{
+  pointer-events:none;
+  z-index:41;
+  position:relative;
+  display:flex;
+}
+.A--A--O--O-{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:0px;
+  width:135px;
+  min-width:135px;
+  margin-top:0px;
+  margin-bottom:336px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.A--A--O--O--outer{
+  pointer-events:none;
+  z-index:42;
+  position:relative;
+  display:flex;
+}
+.O--O-{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:0px;
+  width:69px;
+  min-width:69px;
+  margin-top:-317px;
+  margin-bottom:288px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.O--O--outer{
+  pointer-events:none;
+  z-index:43;
+  position:relative;
+  display:flex;
+}
+.B--B--O--O-{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  margin-left:0px;
+  width:137px;
+  min-width:137px;
+  margin-top:-269px;
+  margin-bottom:240px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.B--B--O--O--outer{
+  pointer-events:none;
+  z-index:44;
+  position:relative;
+  display:flex;
+}
+.Everyone{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  margin-left:0px;
+  width:112px;
+  min-width:112px;
+  margin-top:-221px;
+  margin-bottom:192px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.Everyone-outer{
+  pointer-events:none;
+  z-index:45;
+  position:relative;
+  display:flex;
+}
+.A--O-{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  margin-left:0px;
+  width:60px;
+  min-width:60px;
+  margin-top:-173px;
+  margin-bottom:144px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.A--O--outer{
+  pointer-events:none;
+  z-index:46;
+  position:relative;
+  display:flex;
+}
+.O-{
+  position:relative;
+  z-index:47;
+  pointer-events:none;
+  margin-left:0px;
+  width:30px;
+  min-width:30px;
+  margin-top:-125px;
+  margin-bottom:96px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.O--outer{
+  pointer-events:none;
+  z-index:47;
+  position:relative;
+  display:flex;
+}
+.B--O-{
+  position:relative;
+  z-index:48;
+  pointer-events:none;
+  margin-left:0px;
+  width:62px;
+  min-width:62px;
+  margin-top:-77px;
+  margin-bottom:48px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.B--O--outer{
+  pointer-events:none;
+  z-index:48;
+  position:relative;
+  display:flex;
+}
+.AB--A--B--O-{
+  position:relative;
+  z-index:49;
+  pointer-events:none;
+  margin-left:0px;
+  width:143px;
+  min-width:143px;
+  margin-top:-29px;
+  margin-bottom:0px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.AB--A--B--O--outer{
+  pointer-events:none;
+  z-index:49;
+  position:relative;
+  display:flex;
+}
+.Group-6{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:188px;
+  width:170px;
+  min-width:170px;
+  height:365px;
+  margin-top:-402px;
+  margin-bottom:37px;
+  min-height:365px;
+}
+.Group-6-outer{
+  pointer-events:none;
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.A--AB-{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:0px;
+  width:86px;
+  min-width:86px;
+  margin-top:0px;
+  margin-bottom:336px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.A--AB--outer{
+  pointer-events:none;
+  z-index:33;
+  position:relative;
+  display:flex;
+}
+.O---A--B--AB-{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:0px;
+  width:168px;
+  min-width:168px;
+  margin-top:-317px;
+  margin-bottom:288px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.O---A--B--AB--outer{
+  pointer-events:none;
+  z-index:34;
+  position:relative;
+  display:flex;
+}
+.B--AB-{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:0px;
+  width:87px;
+  min-width:87px;
+  margin-top:-269px;
+  margin-bottom:240px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.B--AB--outer{
+  pointer-events:none;
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.AB-{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:0px;
+  width:50px;
+  min-width:50px;
+  margin-top:-221px;
+  margin-bottom:192px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.AB--outer{
+  pointer-events:none;
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.A--A--AB--AB-{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:0px;
+  width:168px;
+  min-width:168px;
+  margin-top:-173px;
+  margin-bottom:144px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.A--A--AB--AB--outer{
+  pointer-events:none;
+  z-index:37;
+  position:relative;
+  display:flex;
+}
+.Everyone-1{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:0px;
+  width:112px;
+  min-width:112px;
+  margin-top:-125px;
+  margin-bottom:96px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.Everyone-1-outer{
+  pointer-events:none;
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.B--B--AB--AB-{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:0px;
+  width:170px;
+  min-width:170px;
+  margin-top:-77px;
+  margin-bottom:48px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.B--B--AB--AB--outer{
+  pointer-events:none;
+  z-index:39;
+  position:relative;
+  display:flex;
+}
+.AB--AB-{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:0px;
+  width:100px;
+  min-width:100px;
+  margin-top:-29px;
+  margin-bottom:0px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.AB--AB--outer{
+  pointer-events:none;
+  z-index:40;
+  position:relative;
+  display:flex;
+}
+.Group-5{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:64px;
+  width:50px;
+  min-width:50px;
+  height:365px;
+  margin-top:-402px;
+  margin-bottom:37px;
+  min-height:365px;
+}
+.Group-5-outer{
+  pointer-events:none;
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.A--1{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:10px;
+  width:31px;
+  min-width:31px;
+  margin-top:0px;
+  margin-bottom:336px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.A--1-outer{
+  pointer-events:none;
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.O--2{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:8px;
+  width:35px;
+  min-width:35px;
+  margin-top:-317px;
+  margin-bottom:288px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.O--2-outer{
+  pointer-events:none;
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.B--1{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:9px;
+  width:32px;
+  min-width:32px;
+  margin-top:-269px;
+  margin-bottom:240px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.B--1-outer{
+  pointer-events:none;
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.AB--2{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:0px;
+  width:50px;
+  min-width:50px;
+  margin-top:-221px;
+  margin-bottom:192px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.AB--2-outer{
+  pointer-events:none;
+  z-index:27;
+  position:relative;
+  display:flex;
+}
+.A-{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:12px;
+  width:27px;
+  min-width:27px;
+  margin-top:-173px;
+  margin-bottom:144px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.A--outer{
+  pointer-events:none;
+  z-index:28;
+  position:relative;
+  display:flex;
+}
+.O--1{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:10px;
+  width:30px;
+  min-width:30px;
+  margin-top:-125px;
+  margin-bottom:96px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.O--1-outer{
+  pointer-events:none;
+  z-index:29;
+  position:relative;
+  display:flex;
+}
+.B-{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:11px;
+  width:28px;
+  min-width:28px;
+  margin-top:-77px;
+  margin-bottom:48px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.B--outer{
+  pointer-events:none;
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.AB--1{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:3px;
+  width:45px;
+  min-width:45px;
+  margin-top:-29px;
+  margin-bottom:0px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.AB--1-outer{
+  pointer-events:none;
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.Line-2{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  transform:rotate(90.00000250447827deg);
+  margin-left:596px;
+  width:463px;
+  min-width:463px;
+  margin-top:-232px;
+  margin-bottom:232px;
+  min-height:undefinedpx;
+  border:1px solid rgba(255, 255, 255, 1);
+}
+.Line-2-outer{
+  pointer-events:none;
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.Line-1{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  transform:rotate(90.00000250447827deg);
+  margin-left:396px;
+  width:463px;
+  min-width:463px;
+  margin-top:-232px;
+  margin-bottom:232px;
+  min-height:undefinedpx;
+  border:1px solid rgba(255, 255, 255, 1);
+}
+.Line-1-outer{
+  pointer-events:none;
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.After-donating-blood{
+  position:relative;
+  z-index:51;
+  pointer-events:none;
+  margin-left:77px;
+  width:714px;
+  min-width:714px;
+  margin-top:-5477px;
+  margin-bottom:5374px;
+  min-height:103px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:24px;
+  line-height:29.600000381469727px;
+}
+.After-donating-blood-outer{
+  pointer-events:none;
+  z-index:51;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2-1{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:270px;
+  width:206px;
+  min-width:206px;
+  height:52px;
+  margin-top:-5363px;
+  margin-bottom:5311px;
+  min-height:52px;
+  background-color:rgba(201, 28, 28, 1);
+  border-radius:7px;
+}
+.Rectangle-2-1-outer{
+  pointer-events:none;
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.Donate-Now{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:287px;
+  width:173px;
+  min-width:173px;
+  margin-top:-5354px;
+  margin-bottom:5320px;
+  min-height:34px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:27.5294132232666px;
+  line-height:33.60000228881836px;
+}
+.Donate-Now-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Rectangle-10{
+  position:relative;
+  z-index:52;
+  pointer-events:none;
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:1066px;
+  margin-top:-5189px;
+  margin-bottom:4123px;
+  min-height:1066px;
+  background-color:rgba(255, 243, 243, 1);
+}
+.Rectangle-10-outer{
+  pointer-events:none;
+  z-index:52;
+  position:relative;
+  display:flex;
+}
+.TYPES-OF-DONATION{
+  position:relative;
+  z-index:53;
+  pointer-events:none;
+  margin-left:458px;
+  width:597px;
+  min-width:597px;
+  margin-top:-5148px;
+  margin-bottom:5082px;
+  min-height:66px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(222, 57, 57, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:600;
+  font-size:54px;
+  line-height:65.5999984741211px;
+}
+.TYPES-OF-DONATION-outer{
+  pointer-events:none;
+  z-index:53;
+  position:relative;
+  display:flex;
+}
+.The-human-body-conta{
+  position:relative;
+  z-index:54;
+  pointer-events:none;
+  margin-left:130px;
+  width:1252px;
+  min-width:1252px;
+  margin-top:-5046px;
+  margin-bottom:4671px;
+  min-height:375px;
+  text-align:center;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:;
+  font-weight:400;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-outer{
+  pointer-events:none;
+  z-index:54;
+  position:relative;
+  display:flex;
+}
+.The-human-body-conta-1{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:300;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-2{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-3{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:300;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-4{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-5{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:300;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-6{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-7{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:300;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-8{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-9{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:300;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-10{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:500;
+  font-size:32px;
+  line-height:36px;
+}
+.The-human-body-conta-11{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:300;
+  font-size:32px;
+  line-height:36px;
+}
+.Component-1{
+  position:relative;
+  z-index:55;
+  pointer-events:none;
+  margin-left:120px;
+  width:232px;
+  min-width:232px;
+  height:78px;
+  margin-top:-4698px;
+  margin-bottom:4620px;
+  min-height:78px;
+}
+.Component-1-outer{
+  pointer-events:none;
+  z-index:55;
+  position:relative;
+  display:flex;
+}
+.White-Blood{
+  position:relative;
+  z-index:57;
+  pointer-events:none;
+  margin-left:6.4655172413793105%;
+  width:86.63793103448276%;
+  height:50%;
+  margin-top:8.189655172413794%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Montserrat;
+  font-weight:400;
+  font-size:32px;
+  line-height:39.20000076293945px;
+}
+.White-Blood-outer{
+  pointer-events:none;
+  z-index:57;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-11{
+  position:relative;
+  z-index:56;
+  pointer-events:none;
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(236, 236, 236, 1);
+  border-radius:16px 16px 0px 0px;
+}
+.Rectangle-11-outer{
+  pointer-events:none;
+  z-index:56;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
